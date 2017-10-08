@@ -1,0 +1,10 @@
+C:\Users\Francisco\source\repos\Domotica02\Domotica02\bin\Debug\Domotica02.exe.config
+C:\Users\Francisco\source\repos\Domotica02\Domotica02\bin\Debug\Domotica02.exe
+C:\Users\Francisco\source\repos\Domotica02\Domotica02\bin\Debug\Domotica02.pdb
+C:\Users\Francisco\source\repos\Domotica02\Domotica02\obj\Debug\Domotica02.DomoticaFormWindow.resources
+C:\Users\Francisco\source\repos\Domotica02\Domotica02\obj\Debug\Domotica02.Properties.Resources.resources
+C:\Users\Francisco\source\repos\Domotica02\Domotica02\obj\Debug\Domotica02.csproj.GenerateResource.Cache
+C:\Users\Francisco\source\repos\Domotica02\Domotica02\obj\Debug\Domotica02.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Domotica02\Domotica02\obj\Debug\Domotica02.exe
+C:\Users\Francisco\source\repos\Domotica02\Domotica02\obj\Debug\Domotica02.pdb
+C:\Users\Francisco\source\repos\Domotica02\Domotica02\obj\Debug\Domotica02.csprojResolveAssemblyReference.cache
